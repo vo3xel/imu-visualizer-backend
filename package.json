@@ -1,0 +1,15 @@
+{
+  "name": "imu-visualizer-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:vo3xel/imu-visualizer-backend.git",
+  "author": "vo3xel <vo3xel@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "socket.io": "^3.1.1"
+  }
+}
